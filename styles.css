@@ -1,0 +1,58 @@
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+}  
+    
+    article {
+    width: 450px;
+    height: 230px;
+    background-color: black;
+    color: white;
+    display: flex;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.card {
+    width: 400px;
+    height: 230px;
+    background-color: rgb(245, 0, 0);
+}
+
+
+.imagen{
+    overflow: hidden; 
+    width: 40%;
+}
+
+img {
+    height: 100%;
+}
+
+
+
+.info{
+    padding: 0px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    margin: 0px;
+    font-size: 15px;
+    display: flex;
+}
+.nombre{
+
+}
+.estado{
+
+}
+.ubicacion{
+
+}
+.episodio{
+
+}
